@@ -1,0 +1,201 @@
+.container-fluid
+{
+    padding: 0 7%;
+}
+.img
+{
+    width: 1349px;
+    height:750px;
+}
+.navbar
+{
+    position: fixed;
+}
+.navopts{
+    
+    padding-right: 70px;
+}
+.home
+{
+    margin-left: 500px;
+}
+.features1
+{
+    font-family: 'Josefin Sans', sans-serif;
+    position: relative;
+    color: white;
+    font-size: 15px;
+    display: inline-block;
+    bottom: 400px;
+    text-align: left;
+    padding-right: 1050px;
+    margin-left: 50px;
+}
+.features2
+{
+    font-family: 'Josefin Sans', sans-serif;
+    position: relative;
+    color: white;
+    font-size: 15px;
+    display: inline-block;
+    bottom: 325px;
+    left: 1120px;
+    bottom: 460px;
+}
+.h
+{
+    font-family: 'BIZ UDPGothic', sans-serif;
+    position: relative;
+    bottom: 200px;
+    right: 100px;
+    color: white;
+    font-size: 20px;
+    display: inline-block;
+
+}
+.h2
+{
+    font-family: 'BIZ UDPGothic', sans-serif;
+    position: relative;
+    bottom: 200px;
+    right: 50px;
+    color: white;
+    font-size: 20px;
+    display: inline-block;
+}
+.h3
+{
+    font-family: 'BIZ UDPGothic', sans-serif;
+    position: relative;
+    bottom: 200px;
+    color: white;
+    font-size: 20px;
+    display: inline-block;
+}
+.sh
+{
+    font-family: 'BIZ UDPGothic', sans-serif;
+    position: relative;
+    right: 310px;
+    bottom: 180px;
+    color: white;
+    font-size: 10px;
+    display: inline-block;
+}
+.sh2
+{
+    font-family: 'BIZ UDPGothic', sans-serif;
+    position: relative;
+    right: 270px;
+    bottom: 180px;
+    color: white;
+    font-size: 10px;
+    display: inline-block;
+}
+.sh3
+{
+    font-family: 'BIZ UDPGothic', sans-serif;
+    position: relative;
+    right: 185px;
+    bottom: 180px;
+    color: white;
+    font-size: 10px;
+    display: inline-block;
+}
+.cool
+{
+    font-family: 'Oswald', sans-serif;
+    position: relative;
+    display: inline-block;
+    font-size: 15px;
+    left: 550px;
+    z-index: 1;
+}
+.EXP
+{
+    font-family: 'Oswald', sans-serif;
+    position: relative;
+    display: inline-block;
+    font-size: 50px;
+    top: 80px;
+    left: 305px;
+    z-index: 1;
+}
+p
+{
+    position: relative;
+    display: inline-block;
+    top: 100px;
+    padding-left: 250px;
+    padding-right: 250px;
+    padding-bottom: 0px;
+    text-align: center;
+}
+.fast
+{
+    font-family: 'Oswald', sans-serif;
+    position: relative;
+    display: inline-block;
+    font-size: 15px;
+    top: 100px;
+    left: 360px;
+    letter-spacing: 5px;
+}
+.ourbikes
+{
+    font-family: 'Oswald', sans-serif;
+    position: relative;
+    display: inline-block;
+    font-size: 15px;
+    left: 560px;
+    top: 250px;
+}
+.EXPLORE
+{
+    font-family: 'Oswald', sans-serif;
+    position: relative;
+    display: inline-block;
+    font-size: 50px;
+    top: 310px;
+    left: 330px
+}
+.logo2
+{  
+    position: absolute;
+    left: 420;
+    left: 580px;
+    top: 855px;
+    opacity: 0.5;
+
+}
+.carousel1
+{
+    margin-top: 300px;
+    width: 500px;
+    height: 300px;
+    position: relative;
+    left: 360px;
+}
+button
+{
+    color: black;
+}
+.MORE
+{
+    font-family: 'Oswald', sans-serif;
+    position: relative;
+    display: inline-block;
+    font-size: 15px;
+    left: 490px;
+}
+.carousel2
+{
+    top: 30px;
+    width: 500px;
+    height: 300px;
+    position: relative;
+    left: 360px;
+
+
+
+}
