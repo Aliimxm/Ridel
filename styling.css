@@ -1,3 +1,7 @@
+*
+{
+    z-index: 0;
+}
 .container-fluid
 {
     padding: 0 7%;
@@ -121,6 +125,13 @@
     left: 305px;
     z-index: 1;
 }
+.p1
+{
+    top: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+}
 p
 {
     position: relative;
@@ -131,6 +142,10 @@ p
     padding-bottom: 0px;
     text-align: center;
 }
+.card
+{
+    top: 380px;
+}
 .fast
 {
     font-family: 'Oswald', sans-serif;
@@ -140,6 +155,16 @@ p
     top: 100px;
     left: 360px;
     letter-spacing: 5px;
+}
+.ourvalue
+{
+    font-family: 'Oswald', sans-serif;
+    position: relative;
+    display: inline-block;
+    font-size: 50px;
+    z-index: 1;
+    left: 550px;
+    top: 175px;
 }
 .ourbikes
 {
@@ -162,7 +187,6 @@ p
 .logo2
 {  
     position: absolute;
-    left: 420;
     left: 580px;
     top: 855px;
     opacity: 0.5;
@@ -176,9 +200,25 @@ p
     position: relative;
     left: 360px;
 }
+.carousel2
 button
 {
     color: black;
+}
+.loremipsum
+{
+    font-family: 'Oswald', sans-serif;
+    position: relative;
+    display: inline-block;
+    font-size: 15px;
+    top: 200px;
+}
+.loremipsum2
+{
+    position: relative;
+    display: inline-block;
+    font-size: 15px;
+    top: 200px;
 }
 .MORE
 {
@@ -188,14 +228,184 @@ button
     font-size: 15px;
     left: 490px;
 }
+.bgcolor
+{
+    background-color: white;
+    
+}
 .carousel2
 {
     top: 30px;
-    width: 500px;
-    height: 300px;
+    width: 900px;
+    height: 500px;
     position: relative;
-    left: 360px;
+    left: 180px;
 
+}
+.carousel2pics
+{
+    height: 500px;
+}
+.features3
+{
+    font-family: 'Bebas Neue', cursive;
+    position: relative;
+    font-size: 15px;
+    padding-left: 0px;
+    left: 135px;
+    top: 110px;
+    padding-right: 100px;
+}
+.icon
+{
+    position: relative;
+    font-size: 35px;
+    top: 100px;
+    left: 150px;
+}
+.icon2
+{
+    position: relative;
+    font-size: 35px;  
+    top: 100px;
+    left: 200px;
+}
+.logo3
+{
+    position: absolute;
+    opacity: 0.5;
+    left: 600px;
+    top: 2525px;
+}
+.aboutcompanyimg
+{
+   position: relative;
+   width: 1349px;
+   height: 600px;
+   top: 300px;
+}
+.aboutcompany
+{
+    position: relative;
+    font-family: 'Oswald', sans-serif;
+    position: relative;
+    display: inline-block;
+    font-size: 50px;
+    left: 750px;
+    bottom: 250px;
+}
+.dummy
+{
+    text-align: left;
+    position: absolute;
+    display: inline-block;
+    font-size: 15px;
+    bottom: 0px;
+    right: 0px;
+    padding-right: 200px;
+    top: 3020px;
+    left: 500px;
+}
+.logo4
+{
+    position: absolute;
+    opacity: 0.5;
+    left: 600px;
+    top: 3565px;
+}
+.updates
+{
+    font-family: 'Oswald', sans-serif;
+    position: relative;
+    display: inline-block;
+    font-size: 50px;
+    z-index: 1;
+    top: 350px;
+    left: 425px;
+}
 
+  
+  .fas.fa-heart:hover {
+    color: #f44336 !important;
+  }
+  
+  .fas.fa-share-alt:hover {
+    color: #0d47a1 !important;
+  }
 
+  .carousel4
+  {
+    width: 900px;
+    height: 350px;
+    top: 450px;
+    left: 220px;
+    position: relative;
+  }
+  .pic1,.pic2,.pic3
+  {
+    width: 900px;
+    height: 500px;
+  }
+  .carousel-indicators
+  {
+    top: 450px;
+  }
+  .carousel-control-next,.carousel-control-prev
+  {
+    top: 100px;
+  }
+  .discount
+  {
+    font-family: 'Oswald', sans-serif;
+    position: relative;
+    display: inline-block;
+    font-size: 15px;
+    background-color: #18978F;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    left: 800px;
+    top: 140px;
+    color: white;
+  }
+
+  .discountdiv
+  {
+    position: relative;
+    display: inline-block;
+    left: 800px;
+    top: 140px;
+  }
+  .preorder
+  {
+    color: white;
+    position: relative;
+    display: inline-block;
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 2px;
+    font-size: 30px;
+    top: 180px;
+    left: 720px;
+  }
+.min,.sec,.ms,.seperator
+{
+    display: inline-block;
+    color: white;
+    font-family: 'Oswald', sans-serif;
+    font-size: 15px;
+}
+.div
+{
+    position: relative;
+    left: 798px;
+    top: 170px;
+}
+footer
+{
+    margin-top: 600px;
+}
+.text-uppercase
+{
+    margin-left: 30px;
 }
